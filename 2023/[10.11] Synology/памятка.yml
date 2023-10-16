@@ -1,0 +1,21 @@
+[Список сайтов с товарами Synology]
+
+1 - https://www.regard.ru/brand/synology - 89 шт.
+2 - https://andpro.ru/info/brands/synology/allproducts/ - 91 шт.
+3 - https://cdek.shopping/m/198/synology - 193 шт.
+4 - https://www.xcom-shop.ru/catalog/servery_i_shd/sistemy_hraneniya_dannyh/synology/?view=table&digiSearch=true&term=synology&params=%7Cfilter%3Dbrands%3ASynology%7Csort%3DDEFAULT - 83 шт.
+5 - https://synology-store.ru/search/index.php?SECTION_ID=440&q=synology&r=Y - 160 шт.
+6 - https://www.kns.ru/shop/synology/ - 85 шт.
+
+[Задача]
+
+  - Собрать со всех сайтов товары
+  - Найти способ достать артикулы со всех сайтов
+
+
+  cdek: только диск, "Код производителя [...]", в остальных - брать из названия обозначение модели - Сетевое хранилище Synology DiskStation [DS720+], 2 отсека, без дисков, черный
+  pegard: Характеристики > Основные > Код производителя [...]
+  synology store: Другие характеристики > Артикул 
+  synology: 
+  xcom: брать из названия обозначение модели - Сетевой накопитель Synology [DS220J]
+  andpro: брать из названия обозначение модели - Сетевое хранилище NAS Synology DS218play 2x3.5" Tower чёрный, [DS218PLAY]
