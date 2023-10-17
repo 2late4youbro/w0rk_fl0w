@@ -163,7 +163,7 @@
     <LoadNumber>3</LoadNumber>
     <ConnectTimeout>20</ConnectTimeout>
     <CachePages>false</CachePages>
-    <LoaderTestingString>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kabel-aruba-pc-ac-ec-jw118a/</LoaderTestingString>
+    <LoaderTestingString>https://100gigabit.ru/hpe/product-J9821A/</LoaderTestingString>
     <UserAgents>
       <string>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36</string>
       <string>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36</string>
@@ -290,7 +290,7 @@
     <LoaderPlugin />
     <LoaderPluginConfig />
   </loaderSetting>
-  <settingsFileFullPath>C:\Users\user\AppData\Roaming\Datacol7-64\Campaigns\aruba\linkas.par</settingsFileFullPath>
+  <settingsFileFullPath>C:\Users\user\AppData\Roaming\Datacol7-64\Campaigns\aruba\marvel.par</settingsFileFullPath>
   <dbs>
     <Interval>0</Interval>
     <IntervalTo>0</IntervalTo>
@@ -327,90 +327,131 @@
   <dns>
     <GenerateStartingUrls>false</GenerateStartingUrls>
     <StartingUrlsList>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-instant-ap-310-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-203/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-365-jx966a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-324-rw-jw319a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-275-rw-jw254a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-304-rw-jx939a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-228-jw182a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-ap-305-jx936a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-215-jw170a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-207-jx954a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-207-jx952a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-ap-303h-jy678a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-514-rw-unified-ap-q9h57a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-375-rw/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-515/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-344-jz021a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-303-jz320a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-335-rw-jw823a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-225-rw-jw240a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-iap-215-rw-jw228a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-ap-103-jw156a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-277-jw180a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-275-jw178a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-334-rw-jw817a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-325-rw-jw325a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-iap-305-rw-jx945a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hp-aruba-iap-205-rw-jw212a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-103-rw-jw190a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-274-jw176a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-367-jx973a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-377/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-345-jz031a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-314-rw-jw805a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-315-jw797a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-networks-ap-104/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-16-jw003a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-315-rw-jw811a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/kontroller-besprovodnoy-seti-aruba-7005-rw-jw633a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-105/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-networks-ap-105/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-hp-aruba-ap-220-mnt-w1w-jw047a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-225-jw174a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-hp-enterprise-aruba-5400r-zl2-700vt-j9828a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-9501g-ac-jw628a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-v2-jw053a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-200-mnt-w3-jy705a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-hp-jl087a-aruba-x372-54vdc-1050w-110-240vac-power-supply/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-9001gr-ac-jw629a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-3501g-ac-jw627a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-325-jw186a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/kontroller-besprovodnoy-seti-aruba-jw686a-7030-rw/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-9001go-dc-jw630a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-hpe-aruba-x371-12v-250w-ps-jl085a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-w1-jw046a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-ac-48v36c-48v-36w-jx991a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-324-jw184a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-h1-jw054a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-adp-jw056a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-psu-350-ac-jw657a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kabel-aruba-pc-ac-ec-jw118a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-h2-jw055a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-w3-jy706a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-ac-12v30b-12v-30w-jx990a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kontroller-besprovodnoy-seti-aruba-jw735a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-c1-jw044a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-20w-jw011a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-psu-350-dc-jw658a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-v1-jw052a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-28-jw013a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-c2-jw045a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-25a-jw012a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/programmnoe-obespechenie-aruba-airwave-dl360-ent-hw-appliance-jx919a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-ac-12v30a-12v-30w-jx989a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-dc-car-12vdc-jw631a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/programmnoe-obespechenie-aruba-clearpass-25k-dl360-hw-appliance-jx920a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw473aae/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-13b-jw001a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-1w-jw009a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw472aae/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-19-jw004a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/programmnoe-obespechenie-aruba-airwave-dl360-pro-hw-appliance-jx918a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-205-jw164a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw474aae/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw471aae/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9821A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW472AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW473AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW546AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW474AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL680A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JY926AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL640AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-R0M46A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL681A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9783A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL682A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW471AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9780A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9782A/</string>
+      <string>https://smb.marvel.ru/hpe/product-Jl070A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL563A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW018A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW019A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL683A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL685A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9152D/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL684A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9777A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL679A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R8N89A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9781A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R8N88A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9774A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9779A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9829A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL686A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL354A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9776A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R8N86A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R8N87A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9778A/</string>
+      <string>https://smb.marvel.ru/hpe/product-Q9B94AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL258A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL677A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL805A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9729A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL693A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL253A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL259A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL678A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R8N85A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9775A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9773A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL809A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9853A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ472AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL261A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL071A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL320A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ445AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL073A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL676A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R0X35A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9822A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JH714AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL256A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL319A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL726A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL356A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL675A/</string>
+      <string>https://smb.marvel.ru/hpe/product-J9772A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL255A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL725A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL724A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL668A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL355A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL321A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL262A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL254A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JH704AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL727A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL072A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL557A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JW470AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL728A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL357A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL074A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL667A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL558A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL322A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL664A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL665A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL666A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL662A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ482AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL075A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL428A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL663A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL429A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JY895AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL002A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL076A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL661A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ401AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL660A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R0X26A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL430A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL659A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL001A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL658A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL579A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL581A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL624A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL625A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ405AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL260A/</string>
+      <string>https://smb.marvel.ru/hpe/product-JY929AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ196AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ119AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JL479A/</string>
+      <string>https://smb.marvel.ru/hpe/product-R4D99AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-Q9Y58AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-Q9Y68AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-Q9Y60AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-R4D95AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-R3K05AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-R4W97AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-Q9Y59AAE/</string>
+      <string>https://smb.marvel.ru/hpe/product-JZ123AAE/</string>
     </StartingUrlsList>
     <GetStartingUrlsFromFileOrList>UrlFromList</GetStartingUrlsFromFileOrList>
     <StartingUrlsFilePath />
@@ -449,7 +490,7 @@
     <GatherLinksAreaXPathes />
     <linkCutStrings />
     <LinkGatherPlugin />
-    <LinkGatherTestString>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kabel-aruba-pc-ac-ec-jw118a/</LinkGatherTestString>
+    <LinkGatherTestString>https://100gigabit.ru/hpe/product-J9821A/</LinkGatherTestString>
     <NaviLinkFilter>
       <ExistStrings />
       <ExistStringsAllMustBe>false</ExistStringsAllMustBe>
@@ -690,7 +731,7 @@
     <FtpDirectory />
     <ExcelAddDatetimeToFilename>false</ExcelAddDatetimeToFilename>
     <ExcelSaveFolder />
-    <ExcelFilenameGenerationFormula>linkas.xlsx</ExcelFilenameGenerationFormula>
+    <ExcelFilenameGenerationFormula>marvel.xlsx</ExcelFilenameGenerationFormula>
     <MysqlLogin />
     <MysqlPassword />
     <MysqlServer />
@@ -738,7 +779,7 @@
       <NotExistStringsAllMust>true</NotExistStringsAllMust>
       <isRegex>false</isRegex>
     </PageCodeToGatherDataFromMatchRules>
-    <DataGatherTestingString>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-instant-ap-310-/</DataGatherTestingString>
+    <DataGatherTestingString>https://smb.marvel.ru/hpe/product-J9821A/</DataGatherTestingString>
     <RangesMode>ALL_PAGE</RangesMode>
     <RangeHarvestRegexes />
     <RangeHarvestXpathes />
@@ -785,7 +826,7 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//h1[@id='pagetitle']</string>
+          <string>//h1</string>
         </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
         <TagsProcessingMode>REMOVE</TagsProcessingMode>
@@ -920,7 +961,7 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//span[@itemprop='value']</string>
+          <string>//div[@itemprop='additionalProperty']</string>
         </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
         <TagsProcessingMode>REMOVE</TagsProcessingMode>
@@ -1024,10 +1065,10 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//div[@class='breadcrumbs']</string>
+          <string>//div[@id='navigation']</string>
         </Xpathes>
         <AllowedTags>&lt;span&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE_SPECIFIED</TagsProcessingMode>
+        <TagsProcessingMode>SAVE</TagsProcessingMode>
         <LookInRefererCode>false</LookInRefererCode>
         <Comments />
         <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
@@ -1125,6 +1166,110 @@
         </fieldDynamicPluginEngineSetting>
         <FieldType>standard</FieldType>
         <DataFieldName>анонс</DataFieldName>
+        <CutStringsRegexGroup>0</CutStringsRegexGroup>
+        <CutStrings />
+        <Xpathes>
+          <string>//div[@class='top_info']</string>
+        </Xpathes>
+        <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
+        <TagsProcessingMode>SAVE</TagsProcessingMode>
+        <LookInRefererCode>false</LookInRefererCode>
+        <Comments />
+        <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
+        <ValueMatchRules>
+          <ExistStrings />
+          <ExistStringsAllMustBe>false</ExistStringsAllMustBe>
+          <NotExistStrings />
+          <NotExistStringsAllMust>true</NotExistStringsAllMust>
+          <isRegex>false</isRegex>
+        </ValueMatchRules>
+        <MatchRuleFormula>
+          <FormulasToMatch />
+        </MatchRuleFormula>
+        <MatchNumberEntitiesBy>NOT</MatchNumberEntitiesBy>
+        <RuleEntitiesRange>
+          <Min>1</Min>
+          <Max>100</Max>
+        </RuleEntitiesRange>
+        <MatchRuleSeparatedStringToSplit />
+        <ValueNotEmpty>false</ValueNotEmpty>
+        <TestAfterProcess>false</TestAfterProcess>
+        <FieldReplaces />
+        <StaticFieldValueSelectMode>
+          <SelectModeType>ALL</SelectModeType>
+          <Range>1-3</Range>
+        </StaticFieldValueSelectMode>
+        <StaticFieldValuesUniteString>,</StaticFieldValuesUniteString>
+        <FieldNecessary>false</FieldNecessary>
+        <DefaultValue />
+        <CutEntitiesNumber>1</CutEntitiesNumber>
+        <CutBy>NOT_TRIM</CutBy>
+        <StringToSplitValueForCutting />
+        <SpecValueType>URL</SpecValueType>
+        <DownloadFiles>false</DownloadFiles>
+        <DownloadableExtensions>
+          <string>.jpg</string>
+          <string>.jpeg</string>
+          <string>.png</string>
+          <string>.gif</string>
+        </DownloadableExtensions>
+        <DownloadFolder />
+        <DownloadVirtualPath />
+        <DownloadLinkIdentificationRule />
+        <DownloadFilenameGenerationMode>NOT</DownloadFilenameGenerationMode>
+        <DownloadExistingFilesHandlingMode>OVERWRITE_EXISTING</DownloadExistingFilesHandlingMode>
+        <DownloadGenerationFilenameFormula />
+        <DownloadFileFinalExtension />
+        <DownloadFileFolderGenerationMode>NOT</DownloadFileFolderGenerationMode>
+        <DownloadGenerationFileFolderFormula />
+        <LoadMaxAttLoad>2</LoadMaxAttLoad>
+        <ReturnValue>VIRTUAL_PATH</ReturnValue>
+        <LoadFilePlugin />
+        <DownloadFileFileFtpUpload>false</DownloadFileFileFtpUpload>
+        <DownloadFileFileRemoveFromComputerAfterFtpLoad>false</DownloadFileFileRemoveFromComputerAfterFtpLoad>
+        <FtpGenerateSubfolderServer>false</FtpGenerateSubfolderServer>
+        <DownloadFileFileMaximumFtpLoadAttempts>1</DownloadFileFileMaximumFtpLoadAttempts>
+        <FtpServer />
+        <FtpPort>0</FtpPort>
+        <FtpLogin />
+        <FtpPassword />
+        <FtpDirectory />
+        <DataGatherPlugin />
+        <DataGatherPluginConfig />
+      </DataField>
+      <DataField>
+        <fieldDynamicPluginEngineSetting>
+          <processDataFieldSetting>
+            <active>false</active>
+            <name>data field process plugin</name>
+            <dllList>
+              <string>System.dll</string>
+            </dllList>
+            <sourceCode>
+                            using System;
+                            using System.Collections.Generic;
+                            using System.Text;
+                            using DynamicPluginData;
+
+                            namespace DatacolDynamicPluginNS
+                            {                
+                                public class DynamicPluginClass
+                                {     
+                                    public static string processDataFieldValue(string s, ItemInfo itemInfo, GlobalInfo globalInfo)
+                                    {
+                                       return s;
+                                    }
+                                }
+                            }
+                    </sourceCode>
+            <loadDllFromPluginSubfolder>false</loadDllFromPluginSubfolder>
+            <dllListToIgnoreLoad />
+            <dynamicGUID />
+            <methodName>processDataFieldValue</methodName>
+          </processDataFieldSetting>
+        </fieldDynamicPluginEngineSetting>
+        <FieldType>standard</FieldType>
+        <DataFieldName>описание</DataFieldName>
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes />
@@ -1226,115 +1371,11 @@
           </processDataFieldSetting>
         </fieldDynamicPluginEngineSetting>
         <FieldType>standard</FieldType>
-        <DataFieldName>описание</DataFieldName>
-        <CutStringsRegexGroup>0</CutStringsRegexGroup>
-        <CutStrings />
-        <Xpathes>
-          <string>//div[@itemprop='description']</string>
-        </Xpathes>
-        <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE</TagsProcessingMode>
-        <LookInRefererCode>false</LookInRefererCode>
-        <Comments />
-        <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
-        <ValueMatchRules>
-          <ExistStrings />
-          <ExistStringsAllMustBe>false</ExistStringsAllMustBe>
-          <NotExistStrings />
-          <NotExistStringsAllMust>true</NotExistStringsAllMust>
-          <isRegex>false</isRegex>
-        </ValueMatchRules>
-        <MatchRuleFormula>
-          <FormulasToMatch />
-        </MatchRuleFormula>
-        <MatchNumberEntitiesBy>NOT</MatchNumberEntitiesBy>
-        <RuleEntitiesRange>
-          <Min>1</Min>
-          <Max>100</Max>
-        </RuleEntitiesRange>
-        <MatchRuleSeparatedStringToSplit />
-        <ValueNotEmpty>false</ValueNotEmpty>
-        <TestAfterProcess>false</TestAfterProcess>
-        <FieldReplaces />
-        <StaticFieldValueSelectMode>
-          <SelectModeType>ALL</SelectModeType>
-          <Range>1-3</Range>
-        </StaticFieldValueSelectMode>
-        <StaticFieldValuesUniteString>,</StaticFieldValuesUniteString>
-        <FieldNecessary>false</FieldNecessary>
-        <DefaultValue />
-        <CutEntitiesNumber>1</CutEntitiesNumber>
-        <CutBy>NOT_TRIM</CutBy>
-        <StringToSplitValueForCutting />
-        <SpecValueType>URL</SpecValueType>
-        <DownloadFiles>false</DownloadFiles>
-        <DownloadableExtensions>
-          <string>.jpg</string>
-          <string>.jpeg</string>
-          <string>.png</string>
-          <string>.gif</string>
-        </DownloadableExtensions>
-        <DownloadFolder />
-        <DownloadVirtualPath />
-        <DownloadLinkIdentificationRule />
-        <DownloadFilenameGenerationMode>NOT</DownloadFilenameGenerationMode>
-        <DownloadExistingFilesHandlingMode>OVERWRITE_EXISTING</DownloadExistingFilesHandlingMode>
-        <DownloadGenerationFilenameFormula />
-        <DownloadFileFinalExtension />
-        <DownloadFileFolderGenerationMode>NOT</DownloadFileFolderGenerationMode>
-        <DownloadGenerationFileFolderFormula />
-        <LoadMaxAttLoad>2</LoadMaxAttLoad>
-        <ReturnValue>VIRTUAL_PATH</ReturnValue>
-        <LoadFilePlugin />
-        <DownloadFileFileFtpUpload>false</DownloadFileFileFtpUpload>
-        <DownloadFileFileRemoveFromComputerAfterFtpLoad>false</DownloadFileFileRemoveFromComputerAfterFtpLoad>
-        <FtpGenerateSubfolderServer>false</FtpGenerateSubfolderServer>
-        <DownloadFileFileMaximumFtpLoadAttempts>1</DownloadFileFileMaximumFtpLoadAttempts>
-        <FtpServer />
-        <FtpPort>0</FtpPort>
-        <FtpLogin />
-        <FtpPassword />
-        <FtpDirectory />
-        <DataGatherPlugin />
-        <DataGatherPluginConfig />
-      </DataField>
-      <DataField>
-        <fieldDynamicPluginEngineSetting>
-          <processDataFieldSetting>
-            <active>false</active>
-            <name>data field process plugin</name>
-            <dllList>
-              <string>System.dll</string>
-            </dllList>
-            <sourceCode>
-                            using System;
-                            using System.Collections.Generic;
-                            using System.Text;
-                            using DynamicPluginData;
-
-                            namespace DatacolDynamicPluginNS
-                            {                
-                                public class DynamicPluginClass
-                                {     
-                                    public static string processDataFieldValue(string s, ItemInfo itemInfo, GlobalInfo globalInfo)
-                                    {
-                                       return s;
-                                    }
-                                }
-                            }
-                    </sourceCode>
-            <loadDllFromPluginSubfolder>false</loadDllFromPluginSubfolder>
-            <dllListToIgnoreLoad />
-            <dynamicGUID />
-            <methodName>processDataFieldValue</methodName>
-          </processDataFieldSetting>
-        </fieldDynamicPluginEngineSetting>
-        <FieldType>standard</FieldType>
         <DataFieldName>характеристики</DataFieldName>
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//div[@id='props']</string>
+          <string>//div[2]/table[1]</string>
         </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
         <TagsProcessingMode>SAVE</TagsProcessingMode>
@@ -1438,10 +1479,10 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//a[@class='product-detail-gallery__link popup_link fancy']</string>
+          <string>//a[@class='popup_link fancy']</string>
         </Xpathes>
-        <AllowedTags>&lt;a&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE_SPECIFIED</TagsProcessingMode>
+        <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
+        <TagsProcessingMode>SAVE</TagsProcessingMode>
         <LookInRefererCode>false</LookInRefererCode>
         <Comments />
         <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
@@ -1541,9 +1582,11 @@
         <DataFieldName>доп. фото</DataFieldName>
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
-        <Xpathes />
+        <Xpathes>
+          <string>//div[@class='wrapp_thumbs xzoom-thumbs']</string>
+        </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
-        <TagsProcessingMode>REMOVE</TagsProcessingMode>
+        <TagsProcessingMode>SAVE</TagsProcessingMode>
         <LookInRefererCode>false</LookInRefererCode>
         <Comments />
         <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
@@ -1699,110 +1742,6 @@
         <DownloadFileFileMaximumFtpLoadAttempts>1</DownloadFileFileMaximumFtpLoadAttempts>
         <FtpServer />
         <FtpPort>0</FtpPort>
-        <FtpPassword />
-        <FtpDirectory />
-        <DataGatherPlugin />
-        <DataGatherPluginConfig />
-      </DataField>
-      <DataField>
-        <fieldDynamicPluginEngineSetting>
-          <processDataFieldSetting>
-            <active>false</active>
-            <name>data field process plugin</name>
-            <dllList>
-              <string>System.dll</string>
-            </dllList>
-            <sourceCode>
-                            using System;
-                            using System.Collections.Generic;
-                            using System.Text;
-                            using DynamicPluginData;
-
-                            namespace DatacolDynamicPluginNS
-                            {                
-                                public class DynamicPluginClass
-                                {     
-                                    public static string processDataFieldValue(string s, ItemInfo itemInfo, GlobalInfo globalInfo)
-                                    {
-                                       return s;
-                                    }
-                                }
-                            }
-                    </sourceCode>
-            <loadDllFromPluginSubfolder>false</loadDllFromPluginSubfolder>
-            <dllListToIgnoreLoad />
-            <dynamicGUID />
-            <methodName>processDataFieldValue</methodName>
-          </processDataFieldSetting>
-        </fieldDynamicPluginEngineSetting>
-        <FieldType>standard</FieldType>
-        <DataFieldName>характеристики 2</DataFieldName>
-        <CutStringsRegexGroup>0</CutStringsRegexGroup>
-        <CutStrings />
-        <Xpathes>
-          <string>//div[@id='custom_tab']</string>
-        </Xpathes>
-        <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE</TagsProcessingMode>
-        <LookInRefererCode>false</LookInRefererCode>
-        <Comments />
-        <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
-        <ValueMatchRules>
-          <ExistStrings />
-          <ExistStringsAllMustBe>false</ExistStringsAllMustBe>
-          <NotExistStrings />
-          <NotExistStringsAllMust>true</NotExistStringsAllMust>
-          <isRegex>false</isRegex>
-        </ValueMatchRules>
-        <MatchRuleFormula>
-          <FormulasToMatch />
-        </MatchRuleFormula>
-        <MatchNumberEntitiesBy>NOT</MatchNumberEntitiesBy>
-        <RuleEntitiesRange>
-          <Min>1</Min>
-          <Max>100</Max>
-        </RuleEntitiesRange>
-        <MatchRuleSeparatedStringToSplit />
-        <ValueNotEmpty>false</ValueNotEmpty>
-        <TestAfterProcess>false</TestAfterProcess>
-        <FieldReplaces />
-        <StaticFieldValueSelectMode>
-          <SelectModeType>ALL</SelectModeType>
-          <Range>1-3</Range>
-        </StaticFieldValueSelectMode>
-        <StaticFieldValuesUniteString>,</StaticFieldValuesUniteString>
-        <FieldNecessary>false</FieldNecessary>
-        <DefaultValue />
-        <CutEntitiesNumber>1</CutEntitiesNumber>
-        <CutBy>NOT_TRIM</CutBy>
-        <StringToSplitValueForCutting />
-        <SpecValueType>URL</SpecValueType>
-        <DownloadFiles>false</DownloadFiles>
-        <DownloadableExtensions>
-          <string>.jpg</string>
-          <string>.jpeg</string>
-          <string>.png</string>
-          <string>.gif</string>
-        </DownloadableExtensions>
-        <DownloadFolder />
-        <DownloadVirtualPath />
-        <DownloadLinkIdentificationRule />
-        <DownloadFilenameGenerationMode>NOT</DownloadFilenameGenerationMode>
-        <DownloadExistingFilesHandlingMode>OVERWRITE_EXISTING</DownloadExistingFilesHandlingMode>
-        <DownloadGenerationFilenameFormula />
-        <DownloadFileFinalExtension />
-        <DownloadFileFolderGenerationMode>NOT</DownloadFileFolderGenerationMode>
-        <DownloadGenerationFileFolderFormula />
-        <LoadMaxAttLoad>2</LoadMaxAttLoad>
-        <ReturnValue>FULL_VALUE</ReturnValue>
-        <LoadFilePlugin />
-        <DownloadFileFileFtpUpload>false</DownloadFileFileFtpUpload>
-        <DownloadFileFileRemoveFromComputerAfterFtpLoad>false</DownloadFileFileRemoveFromComputerAfterFtpLoad>
-        <FtpGenerateSubfolderServer>false</FtpGenerateSubfolderServer>
-        <DownloadFileFileMaximumFtpLoadAttempts>1</DownloadFileFileMaximumFtpLoadAttempts>
-        <FtpServer />
-        <FtpPort>0</FtpPort>
-        <FtpLogin />
         <FtpPassword />
         <FtpDirectory />
         <DataGatherPlugin />

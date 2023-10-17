@@ -163,7 +163,7 @@
     <LoadNumber>3</LoadNumber>
     <ConnectTimeout>20</ConnectTimeout>
     <CachePages>false</CachePages>
-    <LoaderTestingString>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kabel-aruba-pc-ac-ec-jw118a/</LoaderTestingString>
+    <LoaderTestingString>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9726a</LoaderTestingString>
     <UserAgents>
       <string>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36</string>
       <string>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36</string>
@@ -290,7 +290,7 @@
     <LoaderPlugin />
     <LoaderPluginConfig />
   </loaderSetting>
-  <settingsFileFullPath>C:\Users\user\AppData\Roaming\Datacol7-64\Campaigns\aruba\linkas.par</settingsFileFullPath>
+  <settingsFileFullPath>C:\Users\user\AppData\Roaming\Datacol7-64\Campaigns\aruba\100gb.par</settingsFileFullPath>
   <dbs>
     <Interval>0</Interval>
     <IntervalTo>0</IntervalTo>
@@ -327,90 +327,60 @@
   <dns>
     <GenerateStartingUrls>false</GenerateStartingUrls>
     <StartingUrlsList>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-instant-ap-310-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-203/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-365-jx966a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-324-rw-jw319a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-275-rw-jw254a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-304-rw-jx939a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-228-jw182a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-ap-305-jx936a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-215-jw170a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-207-jx954a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-207-jx952a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-ap-303h-jy678a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-514-rw-unified-ap-q9h57a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-375-rw/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-515/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-344-jz021a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-303-jz320a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-335-rw-jw823a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-225-rw-jw240a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-iap-215-rw-jw228a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-ap-103-jw156a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-277-jw180a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-275-jw178a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-334-rw-jw817a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-325-rw-jw325a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-iap-305-rw-jx945a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hp-aruba-iap-205-rw-jw212a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-103-rw-jw190a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-274-jw176a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-367-jx973a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-377/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-345-jz031a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-314-rw-jw805a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-315-jw797a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-networks-ap-104/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-16-jw003a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-315-rw-jw811a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/kontroller-besprovodnoy-seti-aruba-7005-rw-jw633a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-iap-105/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-networks-ap-105/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-hp-aruba-ap-220-mnt-w1w-jw047a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-225-jw174a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-hp-enterprise-aruba-5400r-zl2-700vt-j9828a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-9501g-ac-jw628a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-v2-jw053a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-200-mnt-w3-jy705a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-hp-jl087a-aruba-x372-54vdc-1050w-110-240vac-power-supply/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-9001gr-ac-jw629a-/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-3501g-ac-jw627a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-325-jw186a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/kontroller-besprovodnoy-seti-aruba-jw686a-7030-rw/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-pd-9001go-dc-jw630a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-hpe-aruba-x371-12v-250w-ps-jl085a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-w1-jw046a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-ac-48v36c-48v-36w-jx991a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-324-jw184a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-h1-jw054a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-adp-jw056a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-psu-350-ac-jw657a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kabel-aruba-pc-ac-ec-jw118a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-h2-jw055a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-w3-jy706a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-ac-12v30b-12v-30w-jx990a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kontroller-besprovodnoy-seti-aruba-jw735a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-c1-jw044a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-20w-jw011a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-psu-350-dc-jw658a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-270-mnt-v1-jw052a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-28-jw013a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/montazhnyy-komplekt-aruba-ap-220-mnt-c2-jw045a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-25a-jw012a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/programmnoe-obespechenie-aruba-airwave-dl360-ent-hw-appliance-jx919a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-ac-12v30a-12v-30w-jx989a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/blok-pitaniya-aruba-ap-dc-car-12vdc-jw631a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/programmnoe-obespechenie-aruba-clearpass-25k-dl360-hw-appliance-jx920a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw473aae/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-13b-jw001a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-1w-jw009a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw472aae/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/antenny/antenna-ap-ant-19-jw004a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/programmnoe-obespechenie-aruba-airwave-dl360-pro-hw-appliance-jx918a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-aruba-ap-205-jw164a/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw474aae/</string>
-      <string>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/litsenzii/litsenziya-aruba-jw471aae/</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9726a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9727a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9728a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9729a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9772a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9773a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9774a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9775a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9776a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9777a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9778a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9779a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9780a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9781a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9782a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9783a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9821a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9822a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9836a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl070a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl071a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl072a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl073a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl074a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl075a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl076a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl253a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl254a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl255a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl256a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl258a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl259a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl260a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl261a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl262a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl319a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl320a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl321a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl322a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl323a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl324a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl354a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl355a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl356a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl357a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl375a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl376a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl428a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl429a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl479a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl557a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl558a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl579a</string>
+      <string>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl581a</string>
     </StartingUrlsList>
     <GetStartingUrlsFromFileOrList>UrlFromList</GetStartingUrlsFromFileOrList>
     <StartingUrlsFilePath />
@@ -449,7 +419,7 @@
     <GatherLinksAreaXPathes />
     <linkCutStrings />
     <LinkGatherPlugin />
-    <LinkGatherTestString>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/aksessuary/kabel-aruba-pc-ac-ec-jw118a/</LinkGatherTestString>
+    <LinkGatherTestString>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_j9726a</LinkGatherTestString>
     <NaviLinkFilter>
       <ExistStrings />
       <ExistStringsAllMustBe>false</ExistStringsAllMustBe>
@@ -690,7 +660,7 @@
     <FtpDirectory />
     <ExcelAddDatetimeToFilename>false</ExcelAddDatetimeToFilename>
     <ExcelSaveFolder />
-    <ExcelFilenameGenerationFormula>linkas.xlsx</ExcelFilenameGenerationFormula>
+    <ExcelFilenameGenerationFormula>100gb.xlsx</ExcelFilenameGenerationFormula>
     <MysqlLogin />
     <MysqlPassword />
     <MysqlServer />
@@ -738,7 +708,7 @@
       <NotExistStringsAllMust>true</NotExistStringsAllMust>
       <isRegex>false</isRegex>
     </PageCodeToGatherDataFromMatchRules>
-    <DataGatherTestingString>https://linkas.ru/catalog/besprovodnoe-oborudovanie/aruba/tochka-dostupa-hpe-aruba-instant-ap-310-/</DataGatherTestingString>
+    <DataGatherTestingString>https://100gigabit.ru/catalog/kommutatori_aruba_hpe/kommutator_aruba_hpe_jl557a</DataGatherTestingString>
     <RangesMode>ALL_PAGE</RangesMode>
     <RangeHarvestRegexes />
     <RangeHarvestXpathes />
@@ -785,7 +755,7 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//h1[@id='pagetitle']</string>
+          <string>//h1[@itemprop='name']</string>
         </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
         <TagsProcessingMode>REMOVE</TagsProcessingMode>
@@ -920,7 +890,7 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//span[@itemprop='value']</string>
+          <string>//div[@class='p_articul']</string>
         </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
         <TagsProcessingMode>REMOVE</TagsProcessingMode>
@@ -1024,10 +994,10 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//div[@class='breadcrumbs']</string>
+          <string>//div[@class='realpath']</string>
         </Xpathes>
-        <AllowedTags>&lt;span&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE_SPECIFIED</TagsProcessingMode>
+        <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
+        <TagsProcessingMode>REMOVE</TagsProcessingMode>
         <LookInRefererCode>false</LookInRefererCode>
         <Comments />
         <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
@@ -1230,7 +1200,7 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//div[@itemprop='description']</string>
+          <string>//div[4]/div[2]/div[1]/div[1]</string>
         </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
         <TagsProcessingMode>SAVE</TagsProcessingMode>
@@ -1333,11 +1303,9 @@
         <DataFieldName>характеристики</DataFieldName>
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
-        <Xpathes>
-          <string>//div[@id='props']</string>
-        </Xpathes>
+        <Xpathes />
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE</TagsProcessingMode>
+        <TagsProcessingMode>REMOVE</TagsProcessingMode>
         <LookInRefererCode>false</LookInRefererCode>
         <Comments />
         <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
@@ -1438,10 +1406,10 @@
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
         <Xpathes>
-          <string>//a[@class='product-detail-gallery__link popup_link fancy']</string>
+          <string>//div[@class='showcase-content ']</string>
         </Xpathes>
-        <AllowedTags>&lt;a&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE_SPECIFIED</TagsProcessingMode>
+        <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
+        <TagsProcessingMode>SAVE</TagsProcessingMode>
         <LookInRefererCode>false</LookInRefererCode>
         <Comments />
         <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
@@ -1541,9 +1509,11 @@
         <DataFieldName>доп. фото</DataFieldName>
         <CutStringsRegexGroup>0</CutStringsRegexGroup>
         <CutStrings />
-        <Xpathes />
+        <Xpathes>
+          <string>//div[@class='showcase-thumbnail-restriction']</string>
+        </Xpathes>
         <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
-        <TagsProcessingMode>REMOVE</TagsProcessingMode>
+        <TagsProcessingMode>SAVE</TagsProcessingMode>
         <LookInRefererCode>false</LookInRefererCode>
         <Comments />
         <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
@@ -1699,110 +1669,6 @@
         <DownloadFileFileMaximumFtpLoadAttempts>1</DownloadFileFileMaximumFtpLoadAttempts>
         <FtpServer />
         <FtpPort>0</FtpPort>
-        <FtpPassword />
-        <FtpDirectory />
-        <DataGatherPlugin />
-        <DataGatherPluginConfig />
-      </DataField>
-      <DataField>
-        <fieldDynamicPluginEngineSetting>
-          <processDataFieldSetting>
-            <active>false</active>
-            <name>data field process plugin</name>
-            <dllList>
-              <string>System.dll</string>
-            </dllList>
-            <sourceCode>
-                            using System;
-                            using System.Collections.Generic;
-                            using System.Text;
-                            using DynamicPluginData;
-
-                            namespace DatacolDynamicPluginNS
-                            {                
-                                public class DynamicPluginClass
-                                {     
-                                    public static string processDataFieldValue(string s, ItemInfo itemInfo, GlobalInfo globalInfo)
-                                    {
-                                       return s;
-                                    }
-                                }
-                            }
-                    </sourceCode>
-            <loadDllFromPluginSubfolder>false</loadDllFromPluginSubfolder>
-            <dllListToIgnoreLoad />
-            <dynamicGUID />
-            <methodName>processDataFieldValue</methodName>
-          </processDataFieldSetting>
-        </fieldDynamicPluginEngineSetting>
-        <FieldType>standard</FieldType>
-        <DataFieldName>характеристики 2</DataFieldName>
-        <CutStringsRegexGroup>0</CutStringsRegexGroup>
-        <CutStrings />
-        <Xpathes>
-          <string>//div[@id='custom_tab']</string>
-        </Xpathes>
-        <AllowedTags>&lt;br&gt;,&lt;p&gt;,&lt;ul&gt;,&lt;li&gt;</AllowedTags>
-        <TagsProcessingMode>SAVE</TagsProcessingMode>
-        <LookInRefererCode>false</LookInRefererCode>
-        <Comments />
-        <SearchRegexInXpathResults>false</SearchRegexInXpathResults>
-        <ValueMatchRules>
-          <ExistStrings />
-          <ExistStringsAllMustBe>false</ExistStringsAllMustBe>
-          <NotExistStrings />
-          <NotExistStringsAllMust>true</NotExistStringsAllMust>
-          <isRegex>false</isRegex>
-        </ValueMatchRules>
-        <MatchRuleFormula>
-          <FormulasToMatch />
-        </MatchRuleFormula>
-        <MatchNumberEntitiesBy>NOT</MatchNumberEntitiesBy>
-        <RuleEntitiesRange>
-          <Min>1</Min>
-          <Max>100</Max>
-        </RuleEntitiesRange>
-        <MatchRuleSeparatedStringToSplit />
-        <ValueNotEmpty>false</ValueNotEmpty>
-        <TestAfterProcess>false</TestAfterProcess>
-        <FieldReplaces />
-        <StaticFieldValueSelectMode>
-          <SelectModeType>ALL</SelectModeType>
-          <Range>1-3</Range>
-        </StaticFieldValueSelectMode>
-        <StaticFieldValuesUniteString>,</StaticFieldValuesUniteString>
-        <FieldNecessary>false</FieldNecessary>
-        <DefaultValue />
-        <CutEntitiesNumber>1</CutEntitiesNumber>
-        <CutBy>NOT_TRIM</CutBy>
-        <StringToSplitValueForCutting />
-        <SpecValueType>URL</SpecValueType>
-        <DownloadFiles>false</DownloadFiles>
-        <DownloadableExtensions>
-          <string>.jpg</string>
-          <string>.jpeg</string>
-          <string>.png</string>
-          <string>.gif</string>
-        </DownloadableExtensions>
-        <DownloadFolder />
-        <DownloadVirtualPath />
-        <DownloadLinkIdentificationRule />
-        <DownloadFilenameGenerationMode>NOT</DownloadFilenameGenerationMode>
-        <DownloadExistingFilesHandlingMode>OVERWRITE_EXISTING</DownloadExistingFilesHandlingMode>
-        <DownloadGenerationFilenameFormula />
-        <DownloadFileFinalExtension />
-        <DownloadFileFolderGenerationMode>NOT</DownloadFileFolderGenerationMode>
-        <DownloadGenerationFileFolderFormula />
-        <LoadMaxAttLoad>2</LoadMaxAttLoad>
-        <ReturnValue>FULL_VALUE</ReturnValue>
-        <LoadFilePlugin />
-        <DownloadFileFileFtpUpload>false</DownloadFileFileFtpUpload>
-        <DownloadFileFileRemoveFromComputerAfterFtpLoad>false</DownloadFileFileRemoveFromComputerAfterFtpLoad>
-        <FtpGenerateSubfolderServer>false</FtpGenerateSubfolderServer>
-        <DownloadFileFileMaximumFtpLoadAttempts>1</DownloadFileFileMaximumFtpLoadAttempts>
-        <FtpServer />
-        <FtpPort>0</FtpPort>
-        <FtpLogin />
         <FtpPassword />
         <FtpDirectory />
         <DataGatherPlugin />
